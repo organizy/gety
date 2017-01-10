@@ -1,4 +1,4 @@
 # sendy
 
-gety is worker for recieving events from components. 
+gety is worker for recieving events from components
 
